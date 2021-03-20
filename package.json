@@ -1,0 +1,16 @@
+{
+  "name": "vue-direction-fullscreen",
+  "version": "1.0.0",
+  "description": "vue的全屏指令，支持有icon和无icon两种方式使用",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "element-ui": "^2.15.1",
+    "vue": "^2.6.12"
+  }
+}
